@@ -1,0 +1,32 @@
+
+.Backk{
+    background-image: url("/public/old-city-architecture-ancient-wall-historic-876774-wallhere.com.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    display: flex;
+    flex-direction: column;
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+.head{
+    align-self: center;
+    margin-top: 2rem;
+    padding: 1.5rem;
+    width: fit-content;
+    color: rgb(0, 0, 0);
+    background-color: rgba(250, 235, 215, 0.589);
+    border-radius: 10px;
+    backdrop-filter: blur(8px);
+    display: flex;
+    gap: 1rem;
+
+    
+}
+.heart{
+    font-size: 3rem;
+
+    color: rgba(174, 97, 38, 0.921);
+    
+}
